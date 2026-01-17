@@ -1,2 +1,3 @@
 /.idea/
 /backend/src/main/java/com/flyfile/backend/FlyFileBackendApplication.java
+/backend/src/main/resources/application.yaml
